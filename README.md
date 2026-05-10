@@ -10,12 +10,13 @@ The [Futon manga reader app](https://github.com/AppFuton/Futon), but optimized f
     
 You can find the features(Unchanged) and other details in [the official readme file](Official.md).
 </div>
- 
- 
- 
- 
- 
+
+#
+
 > [!IMPORTANT]
 > This is still incomplete, and may not work properly.
 
--# I won't be making any updates for a bit.
+#
+
+> [!NOTE]
+> I won't be making any updates for a bit.
